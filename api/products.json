@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 25000,
+    "stock": 20,
+    "image": "../images/modern-tv-screen-isolated_23-2151430340.jpg",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 2,
+    "name": "Headphone",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 5000.00,
+    "stock": 20,
+    "image": "../images/c-d-x-PDX_a_82obo-unsplash.jpg",
+    "description": "JBL Tune 770NC Wireless Over Ear ANC Headphones with Mic, Upto 70 Hrs Playtime, Speedcharge, Google Fast Pair, Dual Pairing, BT 5.3 LE Audio, Customize on Headphones App (Black)"
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "category": "Shoes",
+    "brand": "PUMA",
+    "price": 10000,
+    "stock": 20,
+    "image": "../images/domino-studio-164_6wVEHfI-unsplash.jpg",
+    "description": "Crafted with fine technology and futuristic design, PUMA shoe is surely here to uplift your style and track games. Kick off on street and field in this shoe from the world’s leading and much loved sports brand, PUMA."
+  },
+
+  {
+    "id": 4,
+    "name": "Cotroller",
+    "category": "Gaming",
+    "brand": "Zebronics",
+    "price": 7000.00 ,
+    "stock": 20,
+    "image": "../images/WhatsApp Image 2024-06-02 at 19.15.15_b71ba5f1.jpg",
+    "description": "Cosmic Byte ARES Wireless Controller for PC, Magnetic Triggers, Accurate Joysticks, Dual Vibration, Backit LED Buttons, USB Extension Cable (Black)"
+  },
+  {
+    "id": 5,
+    "name": "Goggles",
+    "category": "Eyewear",
+    "brand": "John Jacobs",
+    "price": 199.99,
+    "stock": 20,
+    "image": "../images/WhatsApp Image 2024-06-02 at 19.15.26_d2f62739.jpg",
+    "description": "John Jacobs | Matte Gold Brown Pilot | Polarized and 100% UV Protected Sunglasses | For Men and Women | Medium | JJ S11472L-Pack of 1"
+  },
+  {
+      "id": 6,
+      "name": "Laptop",
+      "category": "Laptop",
+      "brand": "MacBook",
+      "price": 30000,
+      "stock": 50,
+      "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+      "image": "../images/lapi.png"
+    },
+    {
+      "id": 7,
+      "name": "Speakers",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 149.99,
+      "stock": 30,
+      "image": "../images/speakers.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 8,
+      "name": "Wireless Headphones",
+      "category": "Audio",
+      "brand": "SoundBeats",
+      "price": 149.99,
+      "stock": 30,
+      "image": "../images/headphone.png",
+      "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+    },
+    {
+      "id": 9,
+      "name": "Watches",
+      "category": "Wearables",
+      "brand": "FitTech",
+      "price": 199.99,
+      "stock": 20,
+      "image": "../images/watch.png",
+      "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+    },
+    {
+      "id": 10,
+      "name": "Smartphone",
+      "category": "Mobiles",
+      "brand": "TechGadget",
+      "price": 499.99,
+      "stock": 100,
+      "image": "../images/iphone.png",
+      "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+    },
+   
+    
+    {
+      "id": 11,
+      "name": "Laptop",
+      "category": "Video",
+      "brand": "Dell",
+      "price": 25000,
+      "stock": 20,
+      "image": "../images/dell-2-in-1-laptops-16-03-2022-099-271077727-qxz7gd7t.avif",
+      "description": "Dell 15 Thin & Light Laptop, 12th Gen Intel Core i5-1235U Processor, 8GB, 512GB SSD, 15.6 (39.62cm) FHD Display, Win 11 + MSO'21"
+    },
+    {
+      "id": 12,
+      "name": "T-Shirt",
+      "category": "Clothes",
+      "brand": "Leriya Fashion",
+      "price": 850,
+      "stock": 20,
+      "image": "../images/tshirt.jpg",
+      "description": "Leriya Fashion Shirt for Men | Tropical Leaf Printed Rayon Shirts for Men | Preppy Short Sleeves | Spread Collared Neck | Camp Wear Shirt for Boys"
+    }
+  ]
